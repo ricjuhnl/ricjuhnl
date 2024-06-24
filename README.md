@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 
 
-![Ricjuh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricjuhnl&show_icons=true&theme=radical)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ricjuhnl)]
 <!---
 ricjuhnl/ricjuhnl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
