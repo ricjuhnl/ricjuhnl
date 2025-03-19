@@ -12,6 +12,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricjuhnl&show_icons=true&theme=tokyonight&locale=en" alt="ricjuhnl" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ricjuhnl&theme=tokyonight&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" /></p>
+
 <!---
 ricjuhnl/ricjuhnl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
