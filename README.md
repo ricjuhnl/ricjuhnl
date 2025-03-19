@@ -12,7 +12,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricjuhnl&show_icons=true&theme=tokyonight&locale=en" alt="ricjuhnl" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ricjuhnl&theme=tokyonight&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ricjuhnl&theme=tokyonight&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&type=png)](https://git.io/streak-stats)
 
 <!---
 ricjuhnl/ricjuhnl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
