@@ -5,7 +5,7 @@
 
 <h2 align="center">CKA Certified</h2>
 <p align="center">
-<a href="https://www.credly.com/badges/34583fe7-d1de-432b-967a-9a20318f41b1/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" width="75" height="75"/> </a>
+<a href="https://www.credly.com/badges/34583fe7-d1de-432b-967a-9a20318f41b1/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" width="150" height="150"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
